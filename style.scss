@@ -31,7 +31,9 @@ svg {
 
 img:hover,
 svg:hover {
-  transform: scale(1.2);
+  transform: scale(
+    1.2
+  ); //visto alle 17 come si faceva a selezionare solo i film senza tutte le immagini, ma personalmente mi piace di piu' cosi'
 }
 
 nav li {
